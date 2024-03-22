@@ -1,0 +1,17 @@
+{
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Leksgit",
+      "email": "Leksgit@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "VendingMachine\\": "VendingMachine/"
+    }
+  }
+}
